@@ -1,0 +1,124 @@
+booking_id,hotel_name,city,check_in_date,nights,guests,room_type,price_per_night,booking_status,guest_rating,breakfast_included
+1780,Oceanfront,New York,24-03-2024,3,3,Deluxe,211,Completed,4.6,FALSE
+1535,Grand Plaza,Paris,03-06-2025,8,3,Suite,374,Completed,3.6,TRUE
+1514,Budget Stay,New York,18-04-2024,6,3,Standard,163,Completed,4.2,FALSE
+1706,Budget Stay,Sydney,01-08-2024,9,4,Suite,406,Completed,,TRUE
+1918,Budget Stay,London,18-05-2025,1,4,Standard,120,Completed,4.2,FALSE
+1833,Oceanfront,Sydney,16-03-2024,3,2,Suite,387,Confirmed,3.8,FALSE
+1513,City Inn,Berlin,28-07-2024,9,3,Deluxe,222,Completed,4.1,FALSE
+1712,Oceanfront,Sydney,20-11-2024,7,2,Standard,171,Confirmed,2.7,TRUE
+1675,Mountain Peak,New York,12-02-2025,2,3,Suite,422,Completed,3.5,TRUE
+1607,Mountain Peak,New York,25-08-2024,9,2,Deluxe,269,Cancelled,3.4,FALSE
+1242,Lakeview Resort,London,09-01-2025,9,2,Standard,171,Confirmed,4.6,FALSE
+1260,Oceanfront,Paris,21-06-2025,9,3,Deluxe,259,Completed,4.4,TRUE
+1909,Grand Plaza,Berlin,22-03-2024,6,1,Standard,186,Confirmed,3.4,TRUE
+1001,City Inn,New York,02-01-2024,1,1,Suite,414,Completed,3.4,FALSE
+1731,Oceanfront,Berlin,25-06-2024,3,4,Standard,137,Confirmed,,TRUE
+1391,Oceanfront,Tokyo,26-01-2024,4,2,Suite,384,Cancelled,4.7,TRUE
+1764,Lakeview Resort,Tokyo,03-08-2024,5,1,Standard,156,Completed,,FALSE
+1747,City Inn,New York,23-06-2025,7,2,Standard,102,Confirmed,3.4,FALSE
+1748,Budget Stay,Sydney,03-04-2024,4,4,Deluxe,245,Confirmed,3.4,TRUE
+1165,Budget Stay,Sydney,23-02-2025,5,1,Standard,167,Confirmed,,FALSE
+1723,Lakeview Resort,Paris,19-02-2024,10,3,Standard,183,Cancelled,4.7,FALSE
+1578,Oceanfront,Berlin,27-02-2025,1,4,Standard,104,Confirmed,4.7,FALSE
+1609,Oceanfront,Berlin,07-12-2024,9,2,Standard,102,Completed,3.7,TRUE
+1167,City Inn,Sydney,03-04-2025,1,1,Standard,159,Confirmed,4.9,FALSE
+1345,Lakeview Resort,Tokyo,20-11-2024,6,2,Standard,101,Confirmed,4.2,FALSE
+1141,Lakeview Resort,Paris,17-02-2025,9,1,Standard,118,Completed,,FALSE
+1733,Lakeview Resort,Tokyo,07-12-2024,4,1,Standard,109,Completed,2.5,FALSE
+1686,Budget Stay,Berlin,02-10-2024,7,4,Standard,143,Confirmed,4.7,TRUE
+1784,Mountain Peak,New York,06-07-2024,9,3,Suite,392,Confirmed,4.6,FALSE
+1629,Grand Plaza,Paris,08-01-2025,10,2,Deluxe,281,Confirmed,,FALSE
+1912,Grand Plaza,London,01-03-2025,9,4,Suite,416,Completed,3.6,TRUE
+1219,Mountain Peak,New York,09-04-2025,5,1,Deluxe,274,Completed,2.9,TRUE
+1375,Mountain Peak,London,27-11-2024,8,1,Suite,385,Completed,,FALSE
+1870,Lakeview Resort,Tokyo,31-07-2024,2,4,Deluxe,247,Confirmed,,FALSE
+1204,Lakeview Resort,Tokyo,20-01-2024,7,4,Suite,444,Completed,3.2,FALSE
+1617,Mountain Peak,Berlin,13-01-2024,6,2,Suite,374,Completed,,FALSE
+1486,Budget Stay,London,01-08-2024,1,1,Suite,417,Cancelled,4.2,TRUE
+1168,Mountain Peak,New York,20-01-2024,8,3,Suite,414,Confirmed,3.8,TRUE
+1808,Grand Plaza,Sydney,25-01-2024,9,2,Suite,427,Completed,4.5,FALSE
+1539,Lakeview Resort,London,04-04-2025,1,1,Suite,373,Cancelled,4.7,FALSE
+1630,Grand Plaza,Sydney,02-09-2024,3,4,Standard,120,Confirmed,3.6,TRUE
+1832,Lakeview Resort,Tokyo,30-05-2024,4,3,Standard,156,Confirmed,4,TRUE
+1905,City Inn,Sydney,09-02-2025,10,2,Suite,358,Completed,3.8,FALSE
+1954,Oceanfront,New York,20-11-2024,4,3,Standard,134,Confirmed,,FALSE
+1700,Grand Plaza,Berlin,02-08-2024,1,1,Deluxe,268,Confirmed,,TRUE
+1424,City Inn,Paris,20-08-2024,5,1,Deluxe,223,Cancelled,3.4,TRUE
+1830,Grand Plaza,Tokyo,18-05-2025,6,3,Suite,431,Confirmed,2.7,TRUE
+1410,Mountain Peak,Paris,24-05-2025,3,2,Suite,414,Confirmed,2.9,TRUE
+1399,Grand Plaza,Berlin,22-09-2024,7,1,Standard,128,Cancelled,4.8,TRUE
+1515,Budget Stay,London,27-05-2024,3,4,Deluxe,226,Completed,4.8,FALSE
+1970,Lakeview Resort,Berlin,19-12-2024,3,2,Standard,156,Confirmed,4.4,FALSE
+1067,Grand Plaza,Paris,20-04-2025,10,2,Suite,370,Completed,4,FALSE
+1033,Grand Plaza,London,21-05-2024,8,4,Suite,436,Completed,4.2,TRUE
+1769,Mountain Peak,New York,20-03-2024,6,3,Standard,157,Confirmed,3.8,FALSE
+1662,City Inn,New York,25-06-2025,5,4,Standard,102,Cancelled,4.2,FALSE
+1581,Mountain Peak,Sydney,03-03-2025,6,4,Deluxe,211,Cancelled,4.2,TRUE
+1814,Budget Stay,Tokyo,03-03-2024,5,1,Deluxe,202,Confirmed,,TRUE
+1773,Oceanfront,Tokyo,09-11-2024,9,2,Suite,397,Cancelled,4.8,FALSE
+1938,Budget Stay,Paris,08-12-2024,5,2,Suite,444,Cancelled,3.2,FALSE
+1750,City Inn,New York,28-01-2025,9,2,Deluxe,259,Completed,3.4,FALSE
+1973,Grand Plaza,Berlin,17-02-2025,4,2,Suite,385,Confirmed,2.7,FALSE
+1890,Budget Stay,New York,12-03-2025,2,3,Suite,391,Completed,,FALSE
+1726,Oceanfront,New York,14-10-2024,9,4,Standard,147,Confirmed,4.8,FALSE
+1994,City Inn,Paris,06-11-2024,2,3,Suite,427,Completed,2.9,TRUE
+1536,Oceanfront,Berlin,02-12-2024,3,2,Standard,158,Completed,3,FALSE
+1608,City Inn,London,09-12-2024,10,1,Deluxe,201,Completed,3.4,FALSE
+1040,Oceanfront,New York,19-11-2024,3,1,Standard,119,Confirmed,4.8,TRUE
+1858,Oceanfront,Sydney,01-08-2024,9,4,Suite,360,Completed,4,FALSE
+1370,City Inn,Berlin,14-01-2025,3,3,Suite,431,Completed,4.6,FALSE
+1099,Lakeview Resort,Tokyo,18-10-2024,5,1,Suite,373,Cancelled,4.6,FALSE
+1471,Mountain Peak,Tokyo,12-03-2025,5,3,Standard,136,Completed,3.8,FALSE
+1927,City Inn,London,21-06-2025,9,3,Suite,406,Completed,4.7,TRUE
+1238,City Inn,London,20-11-2024,7,2,Deluxe,261,Confirmed,4.2,FALSE
+1433,Oceanfront,Berlin,28-07-2024,9,3,Deluxe,236,Confirmed,2.9,TRUE
+1978,Mountain Peak,New York,09-03-2024,10,1,Suite,436,Completed,,FALSE
+1997,Oceanfront,Paris,18-04-2025,6,2,Standard,143,Confirmed,3.8,FALSE
+1388,Grand Plaza,Paris,28-01-2024,3,4,Deluxe,259,Completed,4.2,FALSE
+1682,Grand Plaza,Sydney,25-06-2024,4,2,Standard,176,Confirmed,4.5,TRUE
+1785,Budget Stay,New York,15-02-2024,4,1,Standard,186,Completed,4.2,FALSE
+1419,Mountain Peak,Paris,16-02-2025,3,2,Deluxe,233,Confirmed,,TRUE
+1393,Mountain Peak,New York,13-10-2024,6,1,Deluxe,298,Completed,3.7,TRUE
+1119,Oceanfront,Tokyo,11-10-2024,2,4,Standard,120,Confirmed,3.5,TRUE
+1772,Grand Plaza,London,24-05-2024,3,2,Deluxe,249,Completed,3.2,FALSE
+1148,City Inn,Berlin,23-06-2024,7,3,Suite,365,Confirmed,4.2,FALSE
+1203,Oceanfront,Paris,07-07-2024,6,1,Suite,385,Confirmed,,FALSE
+1735,Budget Stay,London,04-02-2024,3,1,Deluxe,243,Confirmed,4.3,FALSE
+1713,Mountain Peak,Tokyo,10-03-2024,3,4,Deluxe,206,Completed,4,FALSE
+1019,City Inn,London,19-05-2025,1,4,Standard,143,Confirmed,4.7,FALSE
+1230,Lakeview Resort,New York,21-10-2024,9,4,Suite,406,Completed,4.3,TRUE
+1835,Lakeview Resort,London,11-03-2025,3,1,Suite,369,Confirmed,3.2,TRUE
+1646,City Inn,Sydney,01-08-2024,1,3,Suite,391,Confirmed,3.3,TRUE
+1181,Lakeview Resort,Tokyo,09-01-2024,1,2,Standard,163,Confirmed,4.6,FALSE
+1759,Budget Stay,Paris,18-10-2024,6,1,Deluxe,203,Confirmed,4.4,TRUE
+1679,City Inn,New York,23-02-2025,7,3,Deluxe,240,Confirmed,4.1,TRUE
+1618,City Inn,Berlin,16-08-2024,7,4,Standard,118,Completed,3.4,FALSE
+1022,Grand Plaza,Tokyo,16-12-2024,6,1,Suite,397,Confirmed,,TRUE
+1768,City Inn,London,11-07-2024,3,3,Suite,364,Completed,4.9,TRUE
+1366,Budget Stay,Paris,26-01-2024,4,4,Deluxe,268,Cancelled,4.2,FALSE
+1877,Budget Stay,New York,19-03-2024,3,1,Suite,416,Completed,4.4,TRUE
+1398,Mountain Peak,New York,20-06-2024,10,2,Deluxe,207,Completed,4.3,TRUE
+1218,Mountain Peak,Berlin,18-05-2024,4,1,Standard,172,Confirmed,4.6,FALSE
+1654,Oceanfront,New York,12-02-2024,4,4,Deluxe,230,Completed,,FALSE
+1741,Mountain Peak,New York,25-08-2024,9,4,Deluxe,267,Confirmed,3.2,TRUE
+1941,City Inn,New York,27-05-2024,5,1,Standard,156,Completed,3.6,TRUE
+1840,Budget Stay,New York,12-08-2024,6,1,Standard,144,Completed,4.2,TRUE
+1255,Mountain Peak,Paris,24-03-2024,3,1,Suite,394,Completed,4.4,FALSE
+1690,Oceanfront,Berlin,22-09-2024,3,4,Standard,176,Completed,,FALSE
+1880,Lakeview Resort,Tokyo,05-06-2024,10,3,Standard,168,Completed,3.7,TRUE
+1910,Grand Plaza,Paris,21-06-2024,9,2,Standard,136,Cancelled,4.8,TRUE
+1304,City Inn,London,28-07-2024,10,4,Suite,393,Cancelled,4,FALSE
+1707,Budget Stay,New York,01-08-2024,9,4,Deluxe,296,Completed,3.2,TRUE
+1825,Lakeview Resort,New York,02-09-2024,7,1,Standard,150,Confirmed,3.8,TRUE
+1758,City Inn,Paris,02-05-2025,7,4,Standard,136,Cancelled,4.8,TRUE
+1488,Budget Stay,London,01-09-2024,7,3,Deluxe,223,Confirmed,3.9,TRUE
+1512,City Inn,Tokyo,09-02-2024,3,1,Deluxe,259,Cancelled,,FALSE
+1264,Grand Plaza,Paris,20-11-2024,3,1,Suite,366,Completed,4.5,FALSE
+1575,Budget Stay,Sydney,28-09-2024,10,1,Deluxe,282,Completed,4.4,FALSE
+1809,Mountain Peak,London,09-11-2024,9,1,Suite,392,Confirmed,2.7,FALSE
+1829,Grand Plaza,London,09-12-2024,3,2,Deluxe,229,Confirmed,,TRUE
+1850,Lakeview Resort,Paris,07-12-2024,10,3,Suite,373,Cancelled,3.7,TRUE
+1003,City Inn,Berlin,18-05-2024,10,3,Deluxe,292,Cancelled,3.4,TRUE
+1374,Budget Stay,Paris,18-10-2024,6,2,Deluxe,298,Completed,,FALSE
+1780,Oceanfront,New York,24-03-2024,3,3,Deluxe,211,Completed,4.6,FALSE
